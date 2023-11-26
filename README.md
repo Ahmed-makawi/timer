@@ -2,7 +2,10 @@
 
 A simple stopwatch application with jetpack compose using foreground and bound services 
 
-<img src="https://github.com/Ahmed-makawi/timer/assets/119809534/ccac5a5a-aaa7-4383-a72d-981c6df618bd" alt="photo_2023-11-20_00-38-11" width="300">
+
+
+
+<img src= "https://github.com/Ahmed-makawi/timer/assets/119809534/c7dc0db8-f463-404b-9f5d-3f675bfb7374" alt="photo_2023-11-20_00-38-11.gif" width="300" hight="400">
 <img src="https://github.com/Ahmed-makawi/timer/assets/119809534/6ff25f98-a1d9-42ad-ba1a-58eeba998ecc" alt="WhatsApp Image 2023-11-24 at 12 30 52_8f4f198c" width="300">
 
 
